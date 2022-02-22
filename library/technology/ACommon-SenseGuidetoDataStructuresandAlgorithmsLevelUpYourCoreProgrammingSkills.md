@@ -1,0 +1,45 @@
+# A Common-Sense Guide to Data Structures and Algorithms, Second Edition: Level Up Your Core Programming Skills
+__By: Jay Wengrow__
+## Lessons Learned: 
+- A greedy algorithm is one that, in each step, chooses what appears to be the best option at that moment in time.
+- When looking at an algorithm, it is important to think about the best, average, and worst case scenario. Big O only cares about the worst case scenario
+- A good hash table strikes a balance of avoiding collisions while not consuming lots of memory. To accomplish this, computer scientists have developed the rule of thumb that for every 7 data elements, it should have 10 cells.
+- You can use a hash table instead of an array. The key is every item in the array and the value could just be True. This is leads to O(1) searching instead of O(N)
+- Most programming languages don’t come with a stack data structure, so you will probably have to build one.
+- By building the Stack class around the array, we have built an interface that forces the user to interact with the array in limited ways.
+- Abstract data types-a kind of a data structure that is a set of rules that revolve around some other built-in data structure. A stack is an example in most programming languages
+- The case in which our recursive function will not recurse is known as the base case
+- In recursion, the computer keeps track of functions that still need to be completed with something called a call stack
+- Recursion is often a great choice for an algorithm in which the algorithm needs to dig into an arbitrary number of levels deep into something
+- Recursion, when thinking top down, we get to mentally kick the problem down the road.
+- Dynamic programming is the process of optimizing recursive problems that have overlapping subproblems
+- Bottom-Up dynamic programming essentially throws away recursion all together and goes with your standard loop instead
+- Quicksort is one of the fastest sorting algorithm on average for arrays and often what sort algorithm is used behind the sorting scene for most languages
+- Quickselect can help you find the tenth-highest value easier than sorting the array and then finding the index
+- Quicksort runs at O(N logN), just like mergesort. Both of which utilize recursion
+- Linked lists are really good at inserting and deleting nodes from the very beginning of the list
+- Linked lists are an amazing data structure for moving through an entire list while making insertions or deletions
+- Insertion sort - goes through the entire array by creating a gap at a position and then comparing everything to the left of that position. If greater than the position, slide the gap to the left
+- Big O notation never includes regular numbers that aren’t an exponent. It ignores constants
+- Selection sort- finds the smallest value and puts it in the front
+- Bubble sort - bubbles the highest value to the top
+- Very often (but not always), when an algorithm nests one loop inside another, the algorithm is O(N^2)
+- The point of Big O is how will an algorithm’s performance change as the data increases?
+- Linear search is O(N) or “Oh of N”
+- Key question for Big O notation: if there are N data elements, how many steps will the algorithm take?
+- Arrays and sets are nearly identical, except that you cannot have duplicate values in sets. All operations on arrays and sets take the same number of steps, except for insertion, which takes 2N+1 (because you have to search the entire set to see if the value to are inserting already exists). Versus an array where an insertion only takes N+1 (because you do not have to look at all values before you insert)
+- Binary search tree has at most one left child and one right. Left is less than it and the right is greater
+- The process of visiting every node in a data structure is known as traversing the data structure
+- Deleting a node from a binary search tree is a long and complicated process
+- Abstract data type, it can be implemented using other, more fundamental, data structures
+- The heap is a binary tree that must be complete and the value of each node must be greater than each of its descendant nodes
+- We can create a heap data structure using an array
+- The trie is a kind of tree that is ideal for text-based features such as autocomplete
+- A trie can have any number of nodes. Also, each trie contains a hash table, where the keys are English characters and the values are other nodes of the trie
+- Space efficiency is also represented in big O notation. However, the question now is: if there are N data elements, how many units of memory will the algorithm consume?
+- A graph is a data structure that specializes in relationships, as it easily conveys how data is connected
+- In graphs, each node is called a vertex, the lines between each vertices are called edges, and vertices that are connected by an edge are called adjacent to each other
+- The term path is an official graph term, and it means the specific sequence of edges to get from one vertex to another
+- You can search for a value in a graph either by Depth-First search or Breadth-First Search
+- When optimizing an algorithm, the first step is to think about what the best-imaginable Big O would be. What is the absolute minimum in order for the thing to work?
+- When working to make an algorithm faster, try to write out some examples and see if there are any patterns you could utilize
