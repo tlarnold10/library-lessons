@@ -1,0 +1,39 @@
+# No Rules Rules: Netflix and the Culture
+__By: Reed Hastings__
+## Lessons Learned:
+- A great operational person will give you 2x the output. But a great creative role person will give you 100x the output.
+- Context can be swapped out with expectations
+- If you set unlimited PTO, make sure executives actually take the time off and set clear expectations with employees that there are still rules that should not negatively impact the business
+- Some of their biggest innovations happened when people were off on vacation
+- “The value of creative work should not be measured by time. This is a relic of an Industrial Age when employees did tasks that are now done by machines.”
+- Netflix doesn’t care how many hours you put in, but rather your impact
+- As a leader, solicit feedback frequently and respond with belonging cues when you receive it
+- Never give criticism when you’re still angry and use a calm voice when giving corrective feedback
+- "4A feedback guidelines. 
+    - Aim to assist 
+    - Actionable 
+    - Appreciate 
+    - Accept or discard"
+- Only say about someone what you would say to their face
+- This can push performance up to the next level. The more people heard what they could do better, the better everyone would get at their job.
+- Say exactly what you really think, but with positive intent. Not to attack someone, but to get feelings, opinions, and feedback out into the table where they could be felt with.
+- Once you stop learning or stop excelling, that is the moment for you to pass that spot into someone who is better fitted for it and to move on to a better role for you
+- Treat the team like a professional sports team. You have to do what is needed in order to win the championship. Which includes swapping out players
+- would the company be better off if you let go of this person and looked for someone more effective?
+- Keeper test: if a person in your team were to quit tomorrow, would you try to change their mind? Or would you accept their resignation, perhaps with a little relief? If the latter, you should give them a severance package now, and look for a star, someone you would fight to keep
+- Netflix bases salary on market, not performance... not sure how I personally feel about this model
+- Feedback needs to be actionable and specific
+- Make sure you get feedback from teammates, not just your boss
+- Leading with context is very much about helping someone understand the why a decision is made and the information around that decision
+- When determining whether to lead with control or context, the first question you need to answer is what the level of talent density with the person you are leading
+- Share what you learned from your failures publicly. This not only helps you as an innovator, but can help the entire company to learn
+- When thinking about new ideas, you should seek honest feedback from others. You don’t have to use their ideas or stop you, but it can provide new perspectives
+- Teach employees to seek ways to move the business forward, not ways to please their boss
+- Even though you don’t have to get approval, you should share the context of your decision
+- Don’t seek to please your boss. Seek to do what is best for the company
+- Whisper your wins and shout your mistakes. This builds trust and helps others learn
+- It costs a lot more to lose people and recruit replacements than to overpay a little in the first place
+- Give a raise to an employee before they ask for it
+- High performers naturally want to succeed and will devote all resources toward doing so whether they have a bonus hanging in front of their nose or not
+- There was a study in 1968 that tested the output of top software engineers. Look it up
+- Even if your employees spend a little more when you give them freedom, the cost is still less than having a workplace where they can’t do great things
