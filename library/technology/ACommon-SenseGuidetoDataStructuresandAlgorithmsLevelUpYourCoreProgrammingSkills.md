@@ -25,7 +25,7 @@ __By: Jay Wengrow__
 - Bubble sort - bubbles the highest value to the top
 - Very often (but not always), when an algorithm nests one loop inside another, the algorithm is O(N^2)
 - The point of Big O is how will an algorithm’s performance change as the data increases?
-- Linear search is O(N) or “Oh of N”
+- Linear search is O(N) or `Oh of N`
 - Key question for Big O notation: if there are N data elements, how many steps will the algorithm take?
 - Arrays and sets are nearly identical, except that you cannot have duplicate values in sets. All operations on arrays and sets take the same number of steps, except for insertion, which takes 2N+1 (because you have to search the entire set to see if the value to are inserting already exists). Versus an array where an insertion only takes N+1 (because you do not have to look at all values before you insert)
 - Binary search tree has at most one left child and one right. Left is less than it and the right is greater
