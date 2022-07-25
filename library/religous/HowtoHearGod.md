@@ -1,3 +1,4 @@
+# How to Hear God: A Simple Guide for Normal People
 __By: Peter Greig and John Mark Comer__
 ## Lessons Learned:
 - The Bible says that you were created to enjoy a real, conversational relationship with God. Hearing his voice is therefore the most natural thing in the world.
