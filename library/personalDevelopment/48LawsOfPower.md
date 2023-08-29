@@ -1,0 +1,89 @@
+# The 48 Laws of Power
+__By: Robert Greene__
+## Lessons Learned:
+- law 1 - never outshine the master
+	- always make those above you feel comfortably superior
+	- never take your position for granted and never let accomplishments go to your head
+	- instead of outshining your superiors, you should use discrete flattery. Don't make this flattery to obvious. Ask for their help and guidance.
+- law 2 - never put too much trust in friends, learn how to use enemies
+	- if you have no enemies, make them
+	- without enemies we can grow lazy. An enemy close at our heels keeps us focused and driven.
+- law 3 - conceal your intentions
+- law 4 - always say less than necessary
+	- The more you say the more likely you are to say something foolish.
+	- A person that cannot control their own words cannot control themselves.
+- law 5 - so much depends on reputation, guard it with your life
+	- make your reputation simple and base it on a single quality
+	- if someone comes after your reputation, react calmly and confidently, or not at all.
+- law 6 - court attention at all costs
+	- do not get lost in the crowd, stand out.
+	- being mysterious draws in a lot of attention. People are naturally drawn to something that is interesting and different
+- law 7 - get others to do the work for you, but always take the credit
+- law 8 - make other people comer to you, use bait if needed
+	- control your aggression
+	- make others react to you, rather than always reacting. A large part of this is being proactive.
+- law 9 - win through your actions, never through argument
+- law 10 - infection: avoid the unhappy and unlucky
+	- surround yourself with people you look up to
+- law 11 - learn to keep people dependent on you
+	- power involves relationships with other people. You need allies, pawns, or ever a weak master who serves in front of you. Do not believe that independence is the ultimate power
+- law 12 - use selective honesty and generosity to disarm your victim
+- law 13 - when asking for help, appeal to people's self-interest, never to their mercy or gratitude
+- law 14 - pose a friend, work as a spy
+- law 15 - crush your enemies completely. If even a single ember is left, a blaze will eventually break out again.
+- law 16 - use absence to increase respect and honor
+- law 17 - keep others in suspended terror, cultivate an air of unpredictability. Your predictability gives others a sense of control
+- law 18 - do not build fortresses to protect yourself, isolation is dangerous
+- law 19 - know who you are dealing with, do not offend the wrong person.
+- law 20 - do not commit to anyone.
+	- commit leads to loss of control as you are tied down with a single person.
+	- don't take sides in others' fights
+- law 21 - play a sucker to catch a sucker, seem dumber than you actually are.
+- law 22 - use the surrender tactic. Transform weakness into power
+	- use when you are very sure to lose. This allows you to fight another day and plan your comeback
+- law 23 - concentrate your forces
+	- intensity beats extensity
+	- if you are not in danger, do not fight. You can easily stretch yourself too thin from your ambitions. What is bloated beyond its proportions will inevitably collapse
+	- The mind must not wonder from goal to goal. Stay focused on one thing at a time thing
+- law 24 - play the perfect courtier
+	- essentially kiss the ass of powerful people
+	- make the master look better than everyone around
+- law 25 - re-create yourself. Craft a new identity if needed, one that commands attention and never bores others.
+	- be the master of your own self image.
+- law 26 - keep your hands clean.
+- law 27 - play on people's need to believe to create a cult-like following
+	- people desperately want to believe in something, so give them something to believe in. Something like a vision or cause
+- law 28 - enter action with boldness
+- law 29 - plan all the way to the end
+	- set a clear vision for what you want to accomplish. However, don't get too greedy once you have reached this end vision. 
+- law 30 - make your accomplishments seem effortless
+	- the more mystery around your actions, the more amazing your feats seen to others. People believe it just comes naturally to you, but they don't see the hours and days that go into the preparation
+- law 31 - control the options, get others to play with the cards you deal.
+- law 32 - play to people's fantasies
+	- it is the boring and mundane parts of life that lead people to want these fantasies. People don't want to hear that success takes hard work and some luck. People want to hear about the amazing ways to get rich quick because it is much more exciting
+- law 33 - discover each man's thumbscrew
+	- everyone has some kind of weakness, something like an insecurity, an un controllable emotion or need, or a secret pleasure.
+	- you often find people's weaknesses as the opposite of what they display to others. For example, people who pound their chest in aggression are often cowards
+- law 34 - be royal in your own fashion: act like a king to be treated like one
+- law 35 - master the art of timing
+	- don't appear to be in a hurry. Always appear patient and understand when the time is right.
+- law 36 - disdain thing you cannot have, ignoring them is the best revenge
+- law 37 - create compelling spectacles
+	- symbols and visuals often have a greater impact than words
+- law 38 - think as you like but behave like others
+- law 39 - stir up waters to catch fish
+	- don't be afraid to "poke the bear " when working against an enemy to lure them into making a dumb mistake
+	- tantrums neither intimidate nor inspire any loyalty. This usually marks the downfall of someone who is losing their self control
+- law 40 - despise the free lunch
+- law 41 - avoid stepping into a great man's shoes
+- law 42 - strike the shepherd and the sheep will scatter
+- law 43 - work on the hearts and minds of others.
+	- you need to set others to want to do what you want them to do
+- law 44 - disarm and infuriate with the mirror effect
+	- reflect the behavior of others back at them to help them understand their behaviors better
+- law 45 - Preach the need for change, but never change too much at once.
+- law 46 - never appear too perfect
+	- people do not like the person that looks perfect, most of the time because of envy.
+- law 47 - do not go past the mark you targeted.in victory, learn when to stop
+	- don't press your luck and get too cocky
+- law 48 - assume formlessness. Everything in life changes, so do not become super set in stone and be able to deal with the unexpected in life.
